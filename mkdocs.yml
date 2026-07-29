@@ -4,6 +4,9 @@ theme:
   name: material
   logo: assets/images/logo.png
 
+  features:
+    - navigation.footer
+
 nav:
   - Home: index.md
   - Setup:
