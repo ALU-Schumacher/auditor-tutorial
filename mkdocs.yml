@@ -2,7 +2,7 @@ site_name: Auditor Tutorial
 
 theme:
   name: material
-
+  logo: assets/images/logo.png
 
 nav:
   - Home: index.md
