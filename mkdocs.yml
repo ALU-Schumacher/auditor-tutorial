@@ -1,0 +1,19 @@
+site_name: Auditor Tutorial
+
+theme:
+  name: material
+
+
+nav:
+  - Home: index.md
+  - Setup:
+      - Requirements: setup.md
+      - Prepare Installation: installation.md
+  - Database: database.md
+  - AUDITOR: auditor.md
+  - Collectors:
+      - HTCondor-Collector: htcondorcollectors.md
+  - Plugins:
+      - APEL-Plugin: apelplugin.md
+  - Work with data: data.md  
+
